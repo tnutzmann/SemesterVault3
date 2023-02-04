@@ -14,7 +14,11 @@ tags:
 ## Bitweise Operatoren
 - `~, &, |, °, <<, >>`
 ## Zuweisungsoperatoren
-- Kombination aus **=** und ari
+- Kombination aus **=** und arithmetischem oder bitweisem Operator
+- z.B: ``x += 1`` erhöht x um 1
+
+## Rangfolge der Operatoren
+![[Pasted image 20230204154327.png]]
 
 ---
 [[C]]
