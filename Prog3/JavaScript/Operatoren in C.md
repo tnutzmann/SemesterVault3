@@ -3,7 +3,9 @@ tags:
 
 ---
 
-
+## Arithmetische Operatoren
+- **+,-,*****,/*%**
+- 
 
 ---
-[[]]
+[[C]]
