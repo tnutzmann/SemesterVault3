@@ -56,10 +56,10 @@ Bitte eine gerade Zahl eingeben: 123
 Bitte eine gerade Zahl eingeben: 1
 Bitte eine gerade Zahl eingeben: 2021
 Bitte eine gerade Zahl eingeben: 2024
-Die Zahl %d ist durch Zwei teilbar.
-Die Zahl %d ist durch Zwei teilbar.
-Die Zahl %d ist durch Zwei teilbar.
-
+Die Zahl 2024 ist durch Zwei teilbar.
+Die Zahl 1012 ist durch Zwei teilbar.
+Die Zahl 506 ist durch Zwei teilbar.
+Die Zahl 253 ist nicht mehr durch Zwei teilbar.
 ```
 
 ---
