@@ -6,7 +6,7 @@ tags:
 - [[Datentypen in JS]]
 	- [[Typisierung]]
 - [[First Class Citizen]]
-- [[Operatoren]]
+- [[Operatoren in JS]]
 - [[Kontrollstrukturen]]
 ---
 [[Prog3]]

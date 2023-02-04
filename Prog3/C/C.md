@@ -5,6 +5,7 @@ tags:
 
 - [[Historie]]
 - [[Grundgerüst]]
+	- [[Operatoren in C]]
 	- [[Bedingungen]]
 	- [[Schleifen]]
 	- [[Structs]]
