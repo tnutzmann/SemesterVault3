@@ -11,4 +11,4 @@ tags:
 - Beispiele: JAVA, C**, Smalltalk, Eiffel
 
 ---
-[[Programmier Paradigmen]]
+[[Programmier-Paradigmen]]

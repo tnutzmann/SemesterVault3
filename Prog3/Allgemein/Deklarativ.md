@@ -12,8 +12,8 @@ aliases:
 
 - Direktes Mapping von Inputs auf Outputs
 - Frei von Nebeneffekten
-- Grundlage Funktionaler Programmierung ist u.s. **Lambda-Kalkül**
+- Grundlage [[Funktional|Funktionaler]] Programmierung ist u.s. **Lambda-Kalkül**
 - Beispiele: SQL, Haskell, Prolog
 
 ---
-[[Programmier Paradigmen]]
+[[Programmier-Paradigmen]]

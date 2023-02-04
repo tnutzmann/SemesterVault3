@@ -1,4 +1,4 @@
-- [[Programmier Paradigmen]]
+- [[Programmier-Paradigmen]]
 - [[Turingmaschine]]
 - [[von-Neumann Architektur]]
 

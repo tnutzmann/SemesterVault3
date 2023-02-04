@@ -11,4 +11,4 @@ aliases:
 - Beispiele: [[C]], BASIC, Pascal, Fortran
 
 ---
-[[Programmier Paradigmen]]
+[[Programmier-Paradigmen]]
