@@ -1,0 +1,11 @@
+{
+  "alwaysUpdateLinks": true,
+  "showLineNumber": false,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "de",
+    "en-US"
+  ],
+  "newFileLocation": "current",
+  "attachmentFolderPath": "$Static"
+}
