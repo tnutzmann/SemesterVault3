@@ -3,7 +3,7 @@ tags:
 
 ---
 
-## Zusätzliche Operatoren zu denen aus [[C]] bekannten
+## Zusätzliche Operatoren zu denen aus [[Operatoren in C|C]] bekannten
 - Exponentiation -> `**`
 - *Typeof* für Standardtypen und *Instanceof* für einige Typen
 - Typengenauer Vergleich -> === und !==
