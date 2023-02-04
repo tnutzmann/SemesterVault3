@@ -33,6 +33,32 @@ Hallo Welt 4
 - While evaluiert vor Ausführung des Blocks
 - Do-While evaluiert nach Ausführung des Blocks
 ```C
+#include <stdio.h>
+
+int main(void) {
+	int n;
+	do {
+		printf("Bitte eine gerade Zahl eingeben: ");
+		scanf("&i", &n);
+	} while (n%2 != 0):
+	
+	while(n%2 == 0) {
+		printf("Die Zahl %d ist durch Zwei teilbar.\n", n);
+		n /= 2;
+	}
+	printf("Die Zahl %d ist nicht merh durch zwei teilbar!", n);
+	return 0;
+}
+```
+Ausgabe:
+```
+Bitte eine gerade Zahl eingeben: 123
+Bitte eine gerade Zahl eingeben: 1
+Bitte eine gerade Zahl eingeben: 2021
+Bitte eine gerade Zahl eingeben: 2024
+Die Zahl %d ist durch Zwei teilbar.
+Die Zahl %d ist durch Zwei teilbar.
+Die Zahl %d ist durch Zwei teilbar.
 
 ```
 
