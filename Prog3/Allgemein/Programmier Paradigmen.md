@@ -5,7 +5,7 @@ tags:
 - [[Imperativ]]
 	- Prozedural
 - [[Deklarativ]]
-	- Funktional
+	- [[Funktional]]
 	- Logisch
 - [[Objektorientiert]]
 
