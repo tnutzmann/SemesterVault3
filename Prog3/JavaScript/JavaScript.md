@@ -9,7 +9,7 @@ tags:
 - [[Operatoren in JS]]
 - [[Kontrollstrukturen]]
 
-## (Cheat Sheet)[https://htmlcheatsheet.com/js/](h)
+## [CheatSheet](https://htmlcheatsheet.com/js/)
 
 ---
 [[Prog3]]
