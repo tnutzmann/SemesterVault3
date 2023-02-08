@@ -15,7 +15,19 @@ tags:
 - Funktionen die beim Eintreten eines Events aufgerufen werden
 - Werden auf ein Element registriet
 	- z.B. Buttons
-- Zwei mögliche 
+- Zwei mögliche Arten
+	- **onevent property** (onclick)
+	- **addEventListener()
+- Beide erhalten bei Ereignis ein *Event* Objekt
+- **addEventListener** kann mehrere Funktionen registrieren
+
+#### DOM Eventlistener
+- **addEventListener** hat zwei erforderliche Parameter
+	- Eventtype
+	- Listenerfunktion
+- kann auf jedem Object aufgerufen werden, das Events emittiert
+```
+```
 
 ---
 [[JavaScript]]
