@@ -26,7 +26,13 @@ tags:
 	- Eventtype
 	- Listenerfunktion
 - kann auf jedem Object aufgerufen werden, das Events emittiert
-```
+```JS
+function myFunction() {
+	document.querySelectorAll("li").forEach((li,i) => {
+		let color = (i % 2 == 1 && i < 9) ? "PaleGreen" : "#D0D0D0";
+		li.addEventListener("mouseover", () => li.style.background = color)
+	});
+}
 ```
 
 ---
