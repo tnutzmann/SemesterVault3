@@ -12,7 +12,8 @@ tags:
 
 ```JS
 let xhr = new XMLHttpRequest();
-
+xhr.open("GET", "some.url", true);
+xhr.send():
 ```
 
 
