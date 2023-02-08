@@ -8,6 +8,7 @@ tags:
 - [[First Class Citizen]]
 - [[Operatoren in JS]]
 - [[Kontrollstrukturen]]
+- [[Eventlistener]]
 
 ## [CheatSheet](https://htmlcheatsheet.com/js/)
 
