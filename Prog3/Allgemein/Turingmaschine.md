@@ -3,7 +3,7 @@ tags:
 - theorie
 ---
 
->Die Turingmaschine ist ein mathemtisches Modell einer abstrakten Maschine
+>Die Turingmaschine ist ein mathematisches Modell einer abstrakten Maschine
 
 Drei Bestandteile:
 - Schreibband
