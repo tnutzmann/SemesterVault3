@@ -9,6 +9,7 @@ tags:
 - [[Operatoren in JS]]
 - [[Kontrollstrukturen]]
 - [[Events]]
+- [[AJAX]]
 
 ## [CheatSheet](https://htmlcheatsheet.com/js/)
 
