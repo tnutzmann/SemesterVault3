@@ -4,7 +4,7 @@ tags:
 ---
 
 - Definition individueller Datentypen
-- Ermöglicht verkürzung der Schreibweise
+- Ermöglicht Verkürzung der Schreibweise
 - im Zusammenhang mit [[Structs]] sinnvoll
 ```C
 typedef unsigned short int small;

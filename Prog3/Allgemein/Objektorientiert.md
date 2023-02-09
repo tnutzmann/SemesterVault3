@@ -8,7 +8,7 @@ tags:
 
 - Innerhalb von Klassendefinitionen [[Imperativ|prozedurale]] und/oder [[Deklarativ|funktionale]] Programmierung möglich
 - erfordert die Modellierung der Realität in Hierarchien, Taxonomien, Ontologien
-- Beispiele: JAVA, C**, Smalltalk, Eiffel
+- Beispiele: JAVA, C++, Smalltalk, Eiffel
 
 ---
 [[Programmier-Paradigmen]]

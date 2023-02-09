@@ -4,7 +4,7 @@ tags:
 ---
 
 - Entwickelt **1969-1973** von Dennis Ritchie
-	- Standardisierung Anfang der 90er **ANSI C**
+	- Standardisierung 1989 **ANSI C**
 - Ziel: Programmiersprache für UNIX
 - Erste weitverbreitete Hochsprache
 

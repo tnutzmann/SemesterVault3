@@ -12,7 +12,12 @@ typedef struct Exam {
 	char topic[256];
 	float grade;
 } Exam;
-```
 
+Exam prog3;
+prog3.id = 4;
+prog3.name = "Programmierung 3
+// usw...
+```
+- im Beispiel mit  [[Typedef]] verbunden
 ---
 [[C]]
