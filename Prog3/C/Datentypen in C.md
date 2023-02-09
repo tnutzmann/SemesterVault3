@@ -9,7 +9,7 @@ tags:
 - 1 Byte
 ### Integer - int
 - Natürliche Zahlen
-- -2147483648 bis 2147483648
+- -2147483648 bis 2147483647
 - 4 Byte
 
 #### long & long long

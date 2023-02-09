@@ -14,6 +14,7 @@ tags:
 - [[Datentypen in C]]
 	- [[Variablen]]
 	- [[Konstanten]]
+- [[Bibliotheken]]
 - [[Ein und Ausgabe]]
 - [[Funktionen]]
 - [[Speicherverwaltung]]
