@@ -2,6 +2,7 @@
 tags:
 
 ---
+> Werte für Windows
 ## Datentypen
 ### Character - char
 - einzelne Zeichen oder Zahlen
@@ -10,6 +11,12 @@ tags:
 - Natürliche Zahlen
 - -2147483648 bis 2147483648
 - 4 Byte
+
+#### long & long long
+- Größere Integer
+- long unter Windows sinnlos
+- long long -> 8 Byte
+
 ### Float und Double
 - Fließkommazahlen -> Gebrochene Zahlen mit Dezimalstellen
 - Präzision von 6 bzw 14 Stellen
