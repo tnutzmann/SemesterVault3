@@ -33,6 +33,12 @@ Interaktion mit einem Programm
 #### scanf()
 - einlesen nur von *stdin*
 - teilt Eingabe entsprechend der Formatspezifier
+```C
+char text[]="Hello World\n";
+printf( "%s\n", text ); // Ausgabe: Hello World
+scanf( "%s\n", text ); // User gibt String ein z.B. "Hallo"
+printf( "%s\n", text ); // Ausgabe: Hallo
+```
 ## Ein-/Ausgabe über Argumente
 - Parameterübergabe bei Programmstart
 - **int argc** enthält die Anzahl an Argumente

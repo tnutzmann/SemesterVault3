@@ -11,7 +11,7 @@ Iterative Abarbeitung:
 3. verwenden
 
 **Lokale Vaariablen**  -> Stack
-- Jeder Block (Funktion o.ä.) hat eine Stack
+- Jeder Block (Funktion o.ä.) hat einen Stack
 **Globale Variablen** -> Heap
 - Freiverfügbarer Speicher des Programms
 - Variablen im Heap können Größe ändern
